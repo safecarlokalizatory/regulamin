@@ -52,7 +52,7 @@
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "SVR.html": {
