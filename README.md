@@ -1,0 +1,2 @@
+# regulamin
+GitHub Pages
